@@ -50,7 +50,7 @@ LOCATION_ID int
 
 create table TBL_STG_COUNTRIES
 (COUNTRY_ID char(2),
-COUNTRY_NAME varchar(50),
+COUNTRY_NAME varchar(45),
 REGION_ID int
 );
 
